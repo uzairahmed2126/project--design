@@ -138,7 +138,7 @@ button {
 }
 
 /* hover */
-.names> p:hover {
+.names>p:hover {
     color: #000;
     transition: all 0.5 ease 1s;
 }
